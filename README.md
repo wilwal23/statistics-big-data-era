@@ -9,7 +9,7 @@ This section includes datasets, code and report of a study aimed at finding rela
 ### Datasets 
 The data considered are the following:
 - **Covid cases monitoring** (cases, ICU, hospitalization, ...)(20200224-20230219)<br />
-Source: [Dipartimento della Protezione Civile](https://emergenze.protezionecivile.gov.it/en/health/coron20200224-20230219avirus)<br />
+Source: [Dipartimento della Protezione Civile](https://emergenze.protezionecivile.gov.it/en/health/coronavirus)<br />
 Repository: [github repository](https://github.com/pcm-dpc/COVID-19)
 - **Regional lockdown history** (region-by-region lockdown status during the pandemic)(20201106-20220328)<br />
 Source: [OnData association](https://www.ondata.it/)<br />
