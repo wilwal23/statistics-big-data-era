@@ -37,3 +37,8 @@ Repository: [official website](https://www.aifa.gov.it/web/guest/spesa-e-consumo
 |NUTS_code|datasetIniISO|versionID|nomeTesto|FID|datasetIni|datasetFin|designIniz|designFine|nomeAutCom|legNomeBre|legData|legLink|legSpecRif|legLivello|legGU_Link|zona|datasetFinISO|NUTS_level|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |ITF6|2020-11-06|1|Calabria|0|06/11/2020|20/11/2020|1604620800000|20/11/2020|Ministero della Salute|Ordinanza 04/11/2020|1604448000000|https://www.trovanorme.salute.gov.it/norme/dettaglioAtto?id=77054|art.3|regionale|https://www.gazzettaufficiale.it/eli/id/2020/11/05/20A06144/sg|rossa|2020-11-20|2|
+
+#### Doubts 
+Data are taken from different time periods, only a subset of the datasets is suitable to define a relation between variables, correct? Will it be enough?
+
+![alt text](https://github.com/wilwal23/statistics-big-data-era/blob/main/datasets-timespan.png?raw=true)
